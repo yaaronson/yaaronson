@@ -2,9 +2,9 @@
 
 Hey! I'm Jonathan Aaronson, a passionate and motivated computer science major student at Touro University. I'm eager to apply my knowledge and skills to real-world projects while learning and growing as a software developer.
 
-Strengths Programming Skills: Proficient in Java and Python, with experience in algorithm design, data structures, and object-oriented programming.
+Strengths Programming Skills: Proficient in Java, C#, MySQL, AWS and Python, with experience in algorithm design, data structures, Devops, Agile development, and object-oriented programming.
 
-Web Development: Familiar with HTML, CSS, and JavaScript + Many no-code platforms such as: Shopify, Webflow, Canva, Wordpress, 10Web, GPT, Weblium, TikTok/Facebook/Instagram/Snapchat/Google Ads, Shopify Plus, Bubble, Softr.io.
+Web Development: Familiar with HTML, CSS, and JavaScript (with many frameworks) + Many no-code platforms such as: Shopify, Webflow, Canva, Wordpress, 10Web, GPT, Weblium, TikTok/Facebook/Instagram/Snapchat/Google Ads, Shopify Plus, Bubble, Softr.io.
 
 Problem Solving: Love solving challenges and finding efficient solutions.
 
@@ -18,6 +18,11 @@ Continuous Learning: Enthusiastic about continuously improving my skills. Love e
 
 Here are some links to some of my repositories:
 
+
+Disk Benchmarking : https://github.com/yaaronson/mybadbm
+
+Advanced Calulator App: https://shorturl.at/mrNV2
+
 Email Web Scrapper: https://github.com/lcmcs/email-scraping-web-crawler-yaaronson
 
 Tic Tac Toe Game (Human VS Computer) - https://github.com/lcmcs/tictactoe-v2-yaaronson
@@ -27,5 +32,9 @@ Pong Game - https://github.com/lcmcs/pong-one-player-yaaronson
 Hashsets - https://github.com/lcmcs/hashset-yaaronson
 
 Othello Game - https://github.com/lcmcs/othellomodel-and-othellogui-yaaronson
+
+My LeetCode Solutions With Explanations: https://github.com/yaaronson/LeetCode
+
+Additionally, I am currently developing a new software that models Airbnb but for a different industry, the project is still in development phases, it is a full stack project that is being built using C# + the ASP.NET framework (repo link is unavailable atm but will be soon)
 
 Thank You!
