@@ -24,7 +24,7 @@ Disk Benchmarking : https://github.com/yaaronson/mybadbm
 
 Advanced Calulator App: https://shorturl.at/mrNV2
 
-Email Web Scrapper: https://github.com/lcmcs/email-scraping-web-crawler-yaaronson
+Email Web Scrapper (School Project): https://github.com/lcmcs/email-scraping-web-crawler-yaaronson
 
 Tic Tac Toe Game (Human VS Computer) - https://github.com/lcmcs/tictactoe-v2-yaaronson
 
