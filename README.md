@@ -1,6 +1,6 @@
 
 
-Hey! I'm Jonathan Aaronson, a passionate and motivated computer science major student at Touro University. I'm eager to apply my knowledge and skills to real-world projects while learning and growing as a software developer.
+Hey! I'm Jonathan Aaronson, a passionate and motivated software developer. I'm eager to apply my knowledge and skills to real-world projects while learning and growing.
 
 Strengths Programming Skills: Proficient in Java, C#, MySQL, AWS and Python, with experience in algorithm design, data structures, Devops, Agile development, and object-oriented programming.
 
