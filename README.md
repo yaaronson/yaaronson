@@ -4,7 +4,7 @@ Hey! I'm Jonathan Aaronson, a passionate and motivated software developer. I'm e
 
 Strengths Programming Skills: Proficient in Java, C#, MySQL, AWS and Python, with experience in algorithm design, data structures, Devops, Agile development, and object-oriented programming.
 
-Web Development: Familiar with HTML, CSS, and JavaScript (with many frameworks) + Many no-code platforms such as: Shopify, Webflow, Canva, Wordpress, 10Web, GPT, Weblium, TikTok/Facebook/Instagram/Snapchat/Google Ads, Shopify Plus, Bubble, Softr.io.
+Web Development: Familiar with HTML, CSS, and JavaScript + React, Jquery, Angular, Vue.js, Bootstrap, Git, Webpack
 
 Problem Solving: Love solving challenges and finding efficient solutions.
 
